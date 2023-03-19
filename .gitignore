@@ -1,5 +1,4 @@
 .idea
 .git
-/core/settings.py
 __pycache__/
 *.pyc

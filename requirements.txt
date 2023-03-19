@@ -1,6 +1,6 @@
 asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
 certifi==2022.12.7
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1635766369754/work
+Djangodj @ file:///home/conda/feedstock_root/build_artifacts/django_1635766369754/work
 et-xmlfile==1.1.0
 flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
 mysql-connector-python==8.0.32
